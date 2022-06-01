@@ -1,6 +1,9 @@
 import logging
 from typing import Union
 
+# Set logging base properties
+# If spark logger, set properties
+
 
 def get_logger():
     try:
